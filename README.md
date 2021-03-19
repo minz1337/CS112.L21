@@ -7,6 +7,7 @@
 <!-- Title -->
 <h1 align="center"><b>CS112.L21 - PHÂN TÍCH VÀ THIẾT KẾ THUẬT TOÁN</b></h1>
 <h1 align="center"><b>ALGORITHM ANALYSIS AND DESIGN</b></h1>
+
 ## BẢNG MỤC LỤC
 * [Giới thiệu môn học](#giới-thiệu-môn-học)
 * [Giới thiệu nhóm](#giới-thiệu-nhóm)
