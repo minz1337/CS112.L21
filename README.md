@@ -33,6 +33,13 @@
 ## CHỦ ĐỀ BÁO CÁO
 * **Số thứ tự chủ đề:** 4 
 * **Tên chủ đề:** Giới thiệu phương pháp thiết kế thuật toán: Divide and Conquer
+
+## Quá trình học
+  1. [Week 1](): Tảo biển + Trạm thu phí
+    + [BOT - Trạm thu phí](week_1/BOT)
+    + [SEAWEED - Tảo biển](week_1/SEAWEED)
+
+
 <!-- Footer -->
 `Copyright © 2021`
 <!-- Xin đừng copy :D. Please don't copy :D -->
